@@ -2,6 +2,7 @@
 #define Item_h
 
 typedef struct binary_tree{
+	Item* root;
 	int elements;
 }binary_tree;
 
