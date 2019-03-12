@@ -27,7 +27,7 @@ int main(int argc, char *argv[]){
 	}
 
 	//Main chunk of code
-	_Bool found;
+	bool found;
 	binary_tree bt;
 
 	 printf("Print in order\n");
