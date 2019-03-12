@@ -1,5 +1,5 @@
-#ifndef Item_h
-#define Item_h
+#ifndef BinaryTree_h
+#define BinaryTree_h
 
 typedef struct binary_tree{
 	Item* root;
